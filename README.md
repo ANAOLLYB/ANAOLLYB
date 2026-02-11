@@ -1,16 +1,53 @@
-## Hi there 👋
+# Olá! Eu sou a Ana Lídia 👋
 
-<!--
-**ANAOLLYB/ANAOLLYB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Desenvolvedora Full Stack em formação
+📚 Pós-graduanda, comprometida com o aprendizado contínuo
+💡 Apaixonada por tecnologia, criatividade e construção de soluções
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mim
+
+Estou em constante desenvolvimento na área de tecnologia, buscando transformar conhecimento em soluções práticas e bem estruturadas. Acredito no aprendizado contínuo e tenho dedicado minha jornada a evoluir tanto tecnicamente quanto profissionalmente.
+
+Atualmente, meu foco está em fortalecer minhas habilidades como desenvolvedora, construir projetos relevantes e adquirir experiência que gere impacto real.
+
+---
+
+## 🧠 Tecnologias e Ferramentas
+
+* HTML
+* CSS
+* JavaScript
+* Angular
+* .Net
+* Power Apps
+* Git & GitHub
+
+*(Sempre aprendendo algo novo!)*
+
+---
+
+## 📌 Projetos em destaque
+
+Em breve você encontrará aqui alguns dos projetos que estou desenvolvendo — cada um deles pensado para demonstrar minha evolução técnica, organização e capacidade de resolver problemas.
+
+---
+
+## 🌱 Atualmente estudando
+
+* Desenvolvimento Full Stack
+* Boas práticas de programação
+* Estruturação de projetos
+* Ferramentas da Power Platform
+
+---
+
+## 📫 Vamos nos conectar?
+
+* LinkedIn: *(adicione seu link aqui)*
+
+---
+
+✨ *"Aprender é um processo contínuo — e cada linha de código é um passo em direção à excelência."*
+
