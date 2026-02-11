@@ -45,7 +45,7 @@ Em breve você encontrará aqui alguns dos projetos que estou desenvolvendo — 
 
 ## 📫 Vamos nos conectar?
 
-* LinkedIn: *(adicione seu link aqui)*
+* LinkedIn: *https://www.linkedin.com/in/ana-l%C3%ADdia-barros-9b96a423a/*
 
 ---
 
